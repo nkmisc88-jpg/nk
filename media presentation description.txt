@@ -1,0 +1,61 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+#EXTINF:-1 tvg-logo="" group-title="Temporary Channels",Criclife 
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+#EXTINF:-1 tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2025/08/cricbuzz-active.png" group-title="Temporary Channels",CricBuzz 1
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
+#EXTINF:-1 tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2025/10/Cricbuzz-2.jpg" group-title="Temporary Channels",CricBuzz 2
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc5ddd99e3c723bf109a504da715dac:d39d55e9ba386a86641ca9668abf2b0d
+#EXTINF:-1 tvg-logo="" group-title="Temporary Channels",Criclife Women
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife_Women_27112025/DASH/CricLife_Women_27112025.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+#EXTINF:-1 tvg-logo="https://i0.wp.com/amazingcollections.net/wp-content/uploads/2022/06/ICC-TV-Live-Subscription.jpg" group-title="Live Events",ICC TV M1
+https://mix.drmlive.net/mix/icctv1.mpd|User-Agent=third-party
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+#EXTINF:-1 tvg-logo="https://i0.wp.com/amazingcollections.net/wp-content/uploads/2022/06/ICC-TV-Live-Subscription.jpg" group-title="Live Events",ICC TV M2
+https://mix.drmlive.net/mix/icctv2.mpd|User-Agent=third-party
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+#EXTINF:-1 tvg-logo="https://i0.wp.com/amazingcollections.net/wp-content/uploads/2022/06/ICC-TV-Live-Subscription.jpg" group-title="Live Events",ICC TV M3
+https://mix.drmlive.net/mix/icctv3.mpd|User-Agent=third-party
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+#EXTINF:-1 tvg-logo="https://i0.wp.com/amazingcollections.net/wp-content/uploads/2022/06/ICC-TV-Live-Subscription.jpg" group-title="Live Events",ICC TV M4
+https://mix.drmlive.net/mix/icctv4.mpd|User-Agent=third-party
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.net/tp/sling_ck?id=22
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/b7c5841c82ec21c38cd43815c7c49791ae3bcc56.png" group-title="Temporary Channels",Willow HD
+https://la.drmlive.net/tp/sling-22.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.net/tp/sling_ck?id=672
+#EXTINF:-1 tvg-logo="https://p-img.movetv.com/1280x720/3dca399cce2d5ddec3993ae3dc351399.png" group-title="Temporary Channels",Willow 2
+https://la.drmlive.net/tp/sling-672.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/sports_key.php?id=willows
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/1280x720/6cc66eec23429f8821491ce16bf5032c.png" group-title="Temporary Channels",Willow Sports
+https://mix.drmlive.net/mix/sportswillows.mpd
+
+
