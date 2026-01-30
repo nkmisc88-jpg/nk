@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-01-31 02:43:29 IST
+# Last Updated: 2026-01-31 03:13:53 IST
 http://0.0.0.0
 <!DOCTYPE html>
 <html>
@@ -2960,6 +2960,8 @@ https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540040039&lang=hin&u
 https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540045533&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769711402~exp=1769797802~acl=/*~hmac=a5d05a82fa3c018266586a39f1ab6ae1762b688a86e1447c8e6f0252215ea926"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
 #EXTINF:-1 group-title="Live Events" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/2214/1750777602214-h",JioHotstar: [Hindi] TATA IPL TV
 https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540044879&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769711402~exp=1769797802~acl=/*~hmac=a5d05a82fa3c018266586a39f1ab6ae1762b688a86e1447c8e6f0252215ea926"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
+#EXTINF:-1 group-title="Live Events" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/3639/1756796893639-h",JioHotstar: [Hindi] T20s TV
+https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540044897&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769711402~exp=1769797802~acl=/*~hmac=a5d05a82fa3c018266586a39f1ab6ae1762b688a86e1447c8e6f0252215ea926"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
 #EXTINF:-1 group-title="Live Events" tvg-id="131049" tvg-name="Rcd Espanyol Vs Deportivo Alaves" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131049_5427_ESL_ALA_FC-Web.png" tvg-language="ENGLISH" ,ENG | Rcd Espanyol Vs Deportivo Alaves
 https://in-mc-fdlive.fancode.com/mumbai/131049_english_hls_ad38dd050340759_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 group-title="Live Events" tvg-id="139345" tvg-name="Bristol City F.c. Vs Derby County Football Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139345_5489_BRI_DER_FC-Web.jpg" tvg-language="ENGLISH" ,ENG | Bristol City F.c. Vs Derby County Football Club
@@ -2979,7 +2981,7 @@ https://in-mc-fdlive.fancode.com/mumbai/140027_english_hls_e548bad07f82404_1ta-d
 #EXTINF:-1 group-title="Live Events" tvg-id="140025" tvg-name="World Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" ,ENG | World Feed   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140025_english_hls_8f0440044384792_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 group-title="Live Events" tvg-id="1090502579" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014076/1769162403868392_Bundesliga_2025_26_FC_Koln_vs_VfL-Wolfsburg_landscape_thumb.jpg" tvg-language="English" ,ENG | FC Koln vs VfL Wolfsburg - MD 20 - 31 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1769841002~acl=/*~id=82581496751071467384885645639562~hmac=f640b77abcc55ab8c00c236b4ede402ef75984d15b9467072a637d777104e774|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; itel A667L; Build/UP1A.231005.007)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4f7e0bf6602a88d29ce88a38d89354bb-1769807400113
+https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1769841002~acl=/*~id=82581496751071467384885645639562~hmac=f640b77abcc55ab8c00c236b4ede402ef75984d15b9467072a637d777104e774|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; CPH2401; Build/TP1A.220905.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d4f9ee3108ba5ba639a600e6a2f2f0f2-1769808600135
 media-1/media.m3u8
 #EXTINF:-1 group-title="Temporary Channels" tvg-logo="https://gemini.google.com/share/3c4237172808",Fox 4k
 https://joker-verse.vercel.app/ptv/itv/3059303.m3u8|Referer=https://joker-verse.vercel.app/&User-Agent=Mozilla/5.0
