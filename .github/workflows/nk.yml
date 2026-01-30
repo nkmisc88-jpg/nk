@@ -1,4 +1,7 @@
 name: nk
+
+# You must add 'on:' here
+on:
   push:
     branches:
       - main
@@ -37,6 +40,7 @@ jobs:
           
           git add nk.m3u
           
+          # Check if there are changes before committing to avoid errors
           if [[ -n $(git status -s) ]]; then
             git commit -m "Auto-update Playlist"
             git pull --rebase origin main
