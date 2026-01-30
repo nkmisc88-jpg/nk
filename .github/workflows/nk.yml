@@ -1,10 +1,4 @@
-name: Pocket Playlist Generator
-
-on:
-  schedule:
-    # Run at minutes 7, 22, 37, and 52 of every hour
-    # This avoids the "quarter-hour traffic jam" on GitHub servers
-    - cron: '7,22,37,52 * * * *'
+name: nk
   push:
     branches:
       - main
@@ -34,14 +28,14 @@ jobs:
           pip install requests
 
       - name: Run Playlist Generator Script
-        run: python create_pocket_playlist.py
+        run: python nk.py
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          git add pocket_playlist.m3u
+          git add nk.m3u
           
           if [[ -n $(git status -s) ]]; then
             git commit -m "Auto-update Playlist"
