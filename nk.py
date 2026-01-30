@@ -7,9 +7,9 @@ import sys
 # ==========================================
 # CONFIGURATION
 # ==========================================
-OUTPUT_FILE = "pocket_playlist.m3u"
-YOUTUBE_FILE = "youtube.txt"
-MPD_FILE = "mpd.txt"  
+OUTPUT_FILE = "nk.m3u"
+YOUTUBE_FILE = "Temporary.txt"
+MPD_FILE = "media presentation description.txt"  
 POCKET_URL = "https://raw.githubusercontent.com/Arunjunan20/My-IPTV/main/index.html" 
 
 # --- NEW SOURCES ---
@@ -36,11 +36,7 @@ SPORTS_HD_KEEP = ["Star Sports 1 HD", "Star Sports 2 HD", "Star Sports 1 Tamil H
 INFOTAINMENT_KEYWORDS = ["discovery", "animal planet", "nat geo", "history tv", "tlc", "bbc earth", "sony bbc", "fox life", "travelxp"]
 
 # 3. DELETE LIST
-BAD_KEYWORDS = ["fashion", "overseas", "yupp", "usa", "pluto", "sun nxt", "sunnxt", "jio specials hd", "zee devotional", "extras", "local channels"]
-
-# 4. AUTO LOGO
-LOGO_MAP = {"willow": "https://i.imgur.com/39s1fL3.png", "fox": "https://i.imgur.com/39s1fL3.png"}
-UA_HEADER = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+BAD_KEYWORDS = ["fashion", "overseas", "yupp", "usa", "pluto", "sun nxt", "sunnxt", "jio specials hd", "sony ten", "zee devotional", "extras", "local channels"]
 
 def get_group_and_name(line):
     grp_match = re.search(r'group-title="([^"]*)"', line, re.IGNORECASE)
@@ -165,19 +161,8 @@ def fetch_jio_hotstar_live():
             else:
                 processed_langs.append(("eng", "English"))
 
-            # --- 2. CONDITIONALLY ADD MULTI-AUDIO ---
-            # Only add [Multi-Audio] if there is more than 1 language
-            if len(processed_langs) > 1:
-                default_stream_url = (
-                    f'{JIO_BASE_STREAM}?id={vid_id}&{JIO_UID_PASS}'
-                    f'|Cookie="{cookie_val}"&User-Agent="{JIO_UA}"&Referer="{JIO_REF}"'
-                )
-                default_display_name = f"JioHotstar: [Multi-Audio] {title}"
-                lines.append(f'#EXTINF:-1 group-title="Live Events" tvg-logo="{logo}",{default_display_name}')
-                lines.append(default_stream_url)
-                count += 1
-
-            # --- 3. ADD SPECIFIC LANGUAGES ---
+          
+            # --- 2. ADD SPECIFIC LANGUAGES ---
             for lang_code, lang_name in processed_langs:
                 stream_url = (
                     f'{JIO_BASE_STREAM}?id={vid_id}&lang={lang_code}&{JIO_UID_PASS}'
@@ -202,11 +187,11 @@ def get_auto_logo(channel_name):
             return url
     return ""
 
-def parse_youtube_txt():
+def parse_Temporary_txt():
     lines = []
-    if not os.path.exists(YOUTUBE_FILE): return []
+    if not os.path.exists(Temporary_FILE): return []
     try:
-        with open(YOUTUBE_FILE, "r", encoding="utf-8", errors="ignore") as f:
+        with open(Temporary_FILE, "r", encoding="utf-8", errors="ignore") as f:
             file_lines = f.readlines()
         current_title, current_logo = "", ""
         for line in file_lines:
@@ -235,18 +220,18 @@ def parse_youtube_txt():
     return lines
 
 # === MPD TXT PARSER ===
-def parse_mpd_txt():
+def parse_media presentation description_txt():
     lines = []
-    if not os.path.exists(MPD_FILE): return []
+    if not os.path.exists(MEDIA PRESENTATION DESCRIPTION_FILE): return []
     try:
         print(f"📥 Reading local file: {MPD_FILE}")
-        with open(MPD_FILE, "r", encoding="utf-8", errors="ignore") as f:
+        with open(MEDIA PRESENTATION DESCRIPTION_FILE, "r", encoding="utf-8", errors="ignore") as f:
             file_lines = f.readlines()
         
         for line in file_lines:
             line = line.strip()
             if not line: continue
-            # We assume mpd.txt contains raw #EXTINF, #KODIPROP, and URLs
+            # We assume media presentation description.txt contains raw #EXTINF, #KODIPROP, and URLs
             lines.append(line)
     except Exception as e:
         print(f"⚠️ Error reading {MPD_FILE}: {e}")
@@ -385,7 +370,7 @@ def main():
     final_lines.extend(parse_youtube_txt())
     
     # === ADD MANUAL MPD CHANNELS ===
-    final_lines.extend(parse_mpd_txt())
+    final_lines.extend(parse_medis presentation description_txt())
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(final_lines))
