@@ -7,7 +7,8 @@ import sys
 # ==========================================
 # CONFIGURATION
 # ==========================================
-OUTPUT_FILE = "pocket_playlist.m3u"
+# CHANGED: Output file name updated
+OUTPUT_FILE = "nk.m3u"
 
 # --- UPDATED FILE NAMES ---
 YOUTUBE_FILE = "Temporary.txt"
@@ -35,11 +36,15 @@ JIO_REF = "https://www.hotstar.com/"
 MOVE_TO_TAMIL_HD = ["Sun TV HD", "Star Vijay HD", "Colors Tamil HD", "Zee Tamil HD", "KTV HD", "Sun Music HD", "Jaya TV HD", "Zee Thirai HD", "Vijay Super HD"]
 MOVE_TO_TAMIL_NEWS = ["Sun News", "News7 Tamil", "Thanthi TV", "Raj News 24x7", "Tamil Janam", "Jaya Plus", "M Nadu", "News J", "News18 Tamil Nadu", "News Tamil 24x7", "Win TV", "Zee Tamil News", "Polimer News", "Puthiya Thalaimurai", "Seithigal TV", "Sathiyam TV", "MalaiMurasu Seithigal"]
 MOVE_TO_INFOTAINMENT_SD = ["GOOD TiMES", "Food Food"]
-SPORTS_HD_KEEP = ["Star Sports 1 HD", "Star Sports 2 HD", "Star Sports 1 Tamil HD", "Star Sports 2 Tamil HD", "Star Sports Select 1 HD", "Star Sports Select 2 HD", "SONY TEN 1 HD", "SONY TEN 2 HD", "SONY TEN 5 HD"]
+
+# CHANGED: Removed Sony Ten channels from the Keep list
+SPORTS_HD_KEEP = ["Star Sports 1 HD", "Star Sports 2 HD", "Star Sports 1 Tamil HD", "Star Sports 2 Tamil HD", "Star Sports Select 1 HD", "Star Sports Select 2 HD"]
+
 INFOTAINMENT_KEYWORDS = ["discovery", "animal planet", "nat geo", "history tv", "tlc", "bbc earth", "sony bbc", "fox life", "travelxp"]
 
 # 3. DELETE LIST
-BAD_KEYWORDS = ["fashion", "overseas", "yupp", "usa", "pluto", "sun nxt", "sunnxt", "jio specials hd", "zee devotional", "extras", "local channels"]
+# CHANGED: Added "sony ten" to be deleted
+BAD_KEYWORDS = ["fashion", "overseas", "yupp", "usa", "pluto", "sun nxt", "sunnxt", "jio specials hd", "zee devotional", "extras", "local channels", "sony ten"]
 
 # 4. AUTO LOGO
 LOGO_MAP = {"willow": "https://i.imgur.com/39s1fL3.png", "fox": "https://i.imgur.com/39s1fL3.png"}
