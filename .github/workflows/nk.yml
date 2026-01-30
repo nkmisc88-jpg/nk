@@ -1,7 +1,9 @@
-name: nk
+name: Pocket Playlist Generator
 
-# You must add 'on:' here
 on:
+  schedule:
+    # Run at minutes 7, 22, 37, and 52 of every hour
+    - cron: '7,22,37,52 * * * *'
   push:
     branches:
       - main
@@ -31,6 +33,7 @@ jobs:
           pip install requests
 
       - name: Run Playlist Generator Script
+        # CHANGED: Script name updated to nk.py
         run: python nk.py
 
       - name: Commit and Push Changes
@@ -38,9 +41,9 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
+          # CHANGED: Output file updated to nk.m3u
           git add nk.m3u
           
-          # Check if there are changes before committing to avoid errors
           if [[ -n $(git status -s) ]]; then
             git commit -m "Auto-update Playlist"
             git pull --rebase origin main
