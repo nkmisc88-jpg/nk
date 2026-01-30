@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-01-31 04:07:53 IST
+# Last Updated: 2026-01-31 04:33:14 IST
 http://0.0.0.0
 <!DOCTYPE html>
 <html>
@@ -2955,17 +2955,13 @@ https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/AND-PICTURES-SD/master/mast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Flix-HD/index-connected/index-connected.m3u8?hdntl=exp=1769889248~acl=%2f*~id=88fddd18-5944-42e5-9454-a6b134c3b49e~data=hdntl~hmac=d9e6e1901dc73e5baa82bacd0b2ff0a21f3013a5b1b50782fbcd7ace44812f0b
 #EXTINF:-1 group-title="Live Events" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/5745/1750779565745-h",JioHotstar: [Hindi] Star Sports Cricket Classics
-https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540040039&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769711402~exp=1769797802~acl=/*~hmac=a5d05a82fa3c018266586a39f1ab6ae1762b688a86e1447c8e6f0252215ea926"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
+https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540040039&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769757482~exp=1769843882~acl=/*~hmac=dbd0b8c4533494a74d05aacf99d5106683a892867738008b825f9e3696bf86b8"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
 #EXTINF:-1 group-title="Live Events" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/1441/1762934631441-h",JioHotstar: [Hindi] Follow The Blues
-https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540045533&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769711402~exp=1769797802~acl=/*~hmac=a5d05a82fa3c018266586a39f1ab6ae1762b688a86e1447c8e6f0252215ea926"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
+https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540045533&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769757482~exp=1769843882~acl=/*~hmac=dbd0b8c4533494a74d05aacf99d5106683a892867738008b825f9e3696bf86b8"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
 #EXTINF:-1 group-title="Live Events" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/2214/1750777602214-h",JioHotstar: [Hindi] TATA IPL TV
-https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540044879&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769711402~exp=1769797802~acl=/*~hmac=a5d05a82fa3c018266586a39f1ab6ae1762b688a86e1447c8e6f0252215ea926"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
+https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540044879&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769757482~exp=1769843882~acl=/*~hmac=dbd0b8c4533494a74d05aacf99d5106683a892867738008b825f9e3696bf86b8"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
 #EXTINF:-1 group-title="Live Events" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/3639/1756796893639-h",JioHotstar: [Hindi] T20s TV
-https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540044897&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769711402~exp=1769797802~acl=/*~hmac=a5d05a82fa3c018266586a39f1ab6ae1762b688a86e1447c8e6f0252215ea926"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
-#EXTINF:-1 group-title="Live Events" tvg-id="140013" tvg-name="Real Sociedad B Vs Las Palmas" tvg-logo="https://images.fancode.com/aig/match/v1/140013_CASACARDS_APP.png" tvg-language="ENGLISH" ,ENG | Real Sociedad B Vs Las Palmas
-https://in-mc-fdlive.fancode.com/mumbai/140013_english_hls_79d607d75795089_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 group-title="Live Events" tvg-id="140166" tvg-name="Day 3   Centre Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png" tvg-language="ENGLISH" ,ENG | Day 3   Centre Court
-https://in-mc-fdlive.fancode.com/mumbai/140166_english_hls_03a071c2e382439_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540044897&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769757482~exp=1769843882~acl=/*~hmac=dbd0b8c4533494a74d05aacf99d5106683a892867738008b825f9e3696bf86b8"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
 #EXTINF:-1 group-title="Live Events" tvg-id="140026" tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" ,ENG | Main Feed   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 group-title="Live Events" tvg-id="140029" tvg-name="Featured Holes   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" ,ENG | Featured Holes   Day 2
