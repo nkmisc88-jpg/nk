@@ -1,0 +1,27 @@
+Title : Fox 4k
+Logo : https://gemini.google.com/share/3c4237172808
+Link: https://joker-verse.vercel.app/ptv/itv/3059303.m3u8|Referer=https://joker-verse.vercel.app/&User-Agent=Mozilla/5.0
+
+Title : Willow Sports
+Logo : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBYFycyfGmKbmiGYeLhFb0oXJKFfA2SGHVqwwo8WBEw&s
+Link : https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/cb573e1e657764909bc33778d1f84582e75939d91374942a6bb45d8975d30b0ad0e9f0c5ee18e975099d18dc7c0b6c075d7ac21fd87c1cc6d82efa5766294471989eb51978a828218a09f4e71899487b32ec33708e7c1777dda9291c8429b06a776b826b4077424039949f5c6fbbdf48cf2739faf08823602e0b75be659e6a346c81c5860c068035ffe65817cb3d66df629004e63e89e6a571a625df34a64dc3cba191e42ab7849364ad50b07e61d0450c70a17916796795fae3a7ef9e6e91af2df5a63cf0b43e1d8b425155fbfe849160e82cf786378a5a45d16c97448c249e7be55de9b800f0dfdba5224b5af59d0981465d5b7a209d270e78d37b0c113b71cfb1b2c034ef20/192/1920x1080_5859480/index.m3u8
+
+Title : Star Sports 1 Hindi HD
+Logo : https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20240313194838
+Link : https://joker-verse.vercel.app/opplex/live/219643.m3u8?uid=706298993&pass=ef2678f2
+
+Title : Star Sports 1 HD
+Logo : https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png
+Link :
+https://joker-verse.vercel.app/opplex/live/167575.m3u8?uid=706298993&pass=ef2678f2
+
+Title : Astro Cricket 
+Logo : https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png
+Link :
+https://joker-verse.vercel.app/opplex/live/167581.m3u8?uid=706298993&pass=ef2678f2
+
+Title : Fox 501
+Logo : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMMj8sfNL82iCJG1Q0j6x060-05cLePa1fFzMDK9FrzQ&s=10
+Link :
+https://joker-verse.vercel.app/opplex/live/348210.m3u8?uid=706298993&pass=ef2678f2
+
