@@ -1,4 +1,4 @@
-name: Pocket Playlist Generator
+name: nk Generator
 
 on:
   schedule:
