@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-01-31 05:05:38 IST
+# Last Updated: 2026-01-31 05:24:06 IST
 http://0.0.0.0
 <!DOCTYPE html>
 <html>
@@ -2962,8 +2962,6 @@ https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540045533&lang=hin&u
 https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540044879&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769757482~exp=1769843882~acl=/*~hmac=dbd0b8c4533494a74d05aacf99d5106683a892867738008b825f9e3696bf86b8"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
 #EXTINF:-1 group-title="Live Events" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_720/sources/r1/cms/prod/3639/1756796893639-h",JioHotstar: [Hindi] T20s TV
 https://jiohotstar.joker-verse.workers.dev/joker/stream?id=1540044897&lang=hin&uid=706298993&pass=ef2678f2|Cookie="__hdnea__=st=1769757482~exp=1769843882~acl=/*~hmac=dbd0b8c4533494a74d05aacf99d5106683a892867738008b825f9e3696bf86b8"&User-Agent="Hotstar;in.startv.hotstar/25.01.27.5.3788 (Android/13)"&Referer="https://www.hotstar.com/"
-#EXTINF:-1 group-title="Live Events" tvg-id="140026" tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" ,ENG | Main Feed   Day 2
-https://in-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 group-title="Live Events" tvg-id="140029" tvg-name="Featured Holes   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" ,ENG | Featured Holes   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/140029_english_hls_6bcd3247e853583_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 group-title="Live Events" tvg-id="140028" tvg-name="Featured Groups   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" tvg-language="ENGLISH" ,ENG | Featured Groups   Day 2
