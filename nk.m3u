@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2026-02-01 01:00:21 IST
+# Last Updated: 2026-02-01 01:16:16 IST
 http://0.0.0.0
 <!DOCTYPE html>
 <html>
@@ -3002,9 +3002,9 @@ https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-d
 #EXTINF:-1 group-title="Live Events" tvg-id="131040" tvg-name="Levante Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131040_5427_LE_ATL_FC-Web.png" tvg-language="ENGLISH" ,ENG | Levante Vs Atletico De Madrid
 https://in-mc-fdlive.fancode.com/mumbai/131040_english_hls_86a8497dc77036_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 group-title="Live Events" tvg-id="1090502782" tvg-name="Bundesliga 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014668/1769855535899643_Bundesliga_2025_26_Hamburger_SV_vs_Bayern_Munich_landscape_thumb.jpg" tvg-language="English" ,ENG | Hamburger SV vs Bayern Munich - MD 20 - 31 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; W-K630-TRU; Build/RP1A.201005.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=01d11eeaca3ab5c937eddea76c44c540-1769886600151
+https://sonymtmnew.akamaized.net/hls/live/2022317/DAI13ME-V3/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 12; en_GB; HEY-W09; Build/HONORHEY-W09)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=424d9fb4b580bd61e2f811f906c29865-1769887800153
 #EXTINF:-1 group-title="Live Events" tvg-id="1090502759" tvg-name="ABB FIA Formula E World Championship" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013179/1767969000060690_ABB_FIA_FormulaE_WC2526_Round_3_Miami_EPRIX_final_Race_9jan_landscape_thumb.jpg" tvg-language="English" ,ENG | Round 3 - Miami E-Prix - Final Race - 31 Jan 2026
-https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SWTV-21AE; Build/RTM1.210315.047)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=01d11eeaca3ab5c937eddea76c44c540-1769886600151
+https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1769905802~acl=/*~id=81358414868689894218092496036514~hmac=bc4b6644059360d9ed7d2cd7eed8f8bc73a76baf803a514018cc7fcafd7ed834|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S918W; Build/AP3A.240905.015.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=424d9fb4b580bd61e2f811f906c29865-1769887800153
 media-1/media.m3u8
 #EXTINF:-1 group-title="Temporary Channels" tvg-logo="https://gemini.google.com/share/3c4237172808",Fox 4k
 https://joker-verse.vercel.app/ptv/itv/3059303.m3u8|Referer=https://joker-verse.vercel.app/&User-Agent=Mozilla/5.0
