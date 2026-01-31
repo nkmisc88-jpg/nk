@@ -18,7 +18,7 @@ POCKET_URL = "https://raw.githubusercontent.com/Arunjunan20/My-IPTV/main/index.h
 
 # --- NEW SOURCES ---
 ZEE_JOKER_URL = "https://raw.githubusercontent.com/tiger629/m3u/refs/heads/main/joker.m3u"
-YOUTUBE_LIVE_URL = "https://raw.githubusercontent.com/nkmisc88-jpg/my-youtube-live-playlist/refs/heads/main/playlist.m3u"
+YOUTUBE_LIVE_URL = "https://raw.githubusercontent.com/nkmisc88-jpg/nkyt/refs/heads/main/playlist.m3u"
 FANCODE_URL = "https://raw.githubusercontent.com/Jitendra-unatti/fancode/main/data/fancode.m3u"
 SONY_LIVE_URL = "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u"
 ZEE_LIVE_URL = "https://raw.githubusercontent.com/doctor-8trange/quarnex/refs/heads/main/data/zee5.m3u"
